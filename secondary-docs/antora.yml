@@ -1,0 +1,6 @@
+name: secondary-docs
+title: Secondary Docs
+version: true
+start_page: ROOT:home.adoc
+nav:
+  - modules/ROOT/nav.adoc
