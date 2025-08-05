@@ -1,0 +1,4 @@
+name: home
+title: Home
+version: true
+start_page: ROOT:home.adoc

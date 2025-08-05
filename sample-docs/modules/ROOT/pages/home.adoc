@@ -1,0 +1,10 @@
+= Sample Docs Header
+
+This is the top level section for sample-docs.
+
+== Full Sample Docs Content
+
++
+--
+include::global:partial$nav.adoc[]
+--
