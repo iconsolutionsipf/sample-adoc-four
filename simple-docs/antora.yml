@@ -1,0 +1,6 @@
+name: sample-docs
+title: Sample Docs
+version: true
+start_page: ROOT:home.adoc
+nav:
+  - modules/ROOT/nav.adoc

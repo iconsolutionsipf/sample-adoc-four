@@ -1,0 +1,7 @@
+= Simple Docs Header
+
+This is the top level section for simple-docs. V1
+
+== Full Simple Docs Content
+
+This is the full content.
